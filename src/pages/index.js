@@ -20,17 +20,17 @@ export default function IndexPage() {
                     <span class="animate-pulse">&#x2588;</span>
                 </h2>
                 <div class="w-full mt-8 mb-8 mx-auto border border-b-0 border-pink-600"></div>
-                <p class="px-4 text-lg font-bold">"Welcome to DriveWise, a predictive analytics project aimed at estimating the likelihood of car accidents in your area. Our website is designed to provide drivers with a deeper understanding of the level of risk associated with driving in a particular region, based on historical data of car accidents collected over a certain period."
+                <p class="px-4 text-lg font-bold">Welcome to DriveWise, a predictive analytics project aimed at estimating the likelihood of car accidents in your area. Our website is designed to provide drivers with a deeper understanding of the level of risk associated with driving in a particular region, based on historical data of car accidents collected over a certain period.
 
 
-"Using weather conditions, time of day and location, we analyze and interpret this data to determine higher risk roads or accident hotspots, which we present to you through an interactive map on our website. In addition, we provide raw data visualization lists of the numbers where users could filter through the data and see totals of incidents with different traits."
+                                                   Using weather conditions, time of day and location, we analyze and interpret this data to determine higher risk roads or accident hotspots, which we present to you through an interactive map on our website. In addition, we provide raw data visualization lists of the numbers where users could filter through the data and see totals of incidents with different traits.
 
 
-"Our ultimate goal is to help reduce the number of car accidents by providing suggestions and warnings if a certain condition like the time of day and or where weather conditions lines up to multiple accidents. This would be more informational with some usable functionality for the everyday user as well."
+                                                   Our ultimate goal is to help reduce the number of car accidents by providing suggestions and warnings if a certain condition like the time of day and or where weather conditions lines up to multiple accidents. This would be more informational with some usable functionality for the everyday user as well.
 
 
-"With DriveWise, you can make more informed decisions when traveling and potentially avoid dangerous situations. Enter your location or a selected location to see the data near you and stay safe on the road."
-</p>
+                                                   With DriveWise, you can make more informed decisions when traveling and potentially avoid dangerous situations. Enter your location or a selected location to see the data near you and stay safe on the road.
+                </p>
               </article>
         </Layout>
     )
