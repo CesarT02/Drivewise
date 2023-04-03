@@ -7,7 +7,7 @@ export function Head() {
         <>
             <title>About Me | Justin Johnson</title>
             <meta name="description" content="Justin Johnson is a web developer in Tucson, Arizona. Here is some information about Justin."/>
-            <link rel="canonical" href="http://justinmjoh.com/about"/>
+            <link rel="canonical" href="https://www.drivewise.site/about"/>
         </>
     )
 }
