@@ -8,7 +8,7 @@ export function Head() {
         <>
             <title>404 | Justin Johnson</title>
             <meta name="description" content="404 error, page was not found!"/>
-            <link rel="canonical" href="http://justinmjoh.com/404"/>
+            <link rel="canonical" href="Www.drivewise.site/404"/>
         </>
     )
 }
