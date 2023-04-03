@@ -1,3 +1,3 @@
-<h1>DriveWies Website</h1>
+<h1>DriveWise Website</h1>
 <p>
 </p>
