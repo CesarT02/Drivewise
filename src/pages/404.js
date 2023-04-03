@@ -6,7 +6,7 @@ import { Link } from 'gatsby';
 export function Head() {
     return (
         <>
-            <title>404 | Justin Johnson</title>
+            <title>404 | DriveWise</title>
             <meta name="description" content="404 error, page was not found!"/>
             <link rel="canonical" href="Www.drivewise.site/404"/>
         </>
